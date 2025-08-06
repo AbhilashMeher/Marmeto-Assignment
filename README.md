@@ -1,4 +1,4 @@
-#Marmeto-Assignment
+## Marmeto-Assignment
 
 This is a simple responsive web application that allows users to build a product bundle by selecting three items and automatically applying a 30% discount. Ideal for e-commerce promotions and upselling.
 
